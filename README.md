@@ -1,7 +1,7 @@
 
 # Description
 
-This mapreduce task takes all of the citys temperatures that they have reported for the past 25 years and depending on which task that is chosen it can either give the global or local data. This data consists of the average temperature and, were it is, the count and the min and max temps in the respective place.
+This mapreduce task takes all of the citys temperatures that they have reported for the past 25 years and depending on which task that is chosen it can either give the global or local data. This data consists of the average temperature along with were it is, the count, the min and max temps in the respective place/s.
 
 ## Commands
 
