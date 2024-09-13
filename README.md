@@ -5,7 +5,7 @@ This mapreduce task takes all of the citys temperatures that they have reported 
 
 ## Commands
 
-Because github does not alow transfers of data that are larger then 100 MB here it where I got the data.
+Because github does not allow transfers of data that are larger then 100 MB here it where I got the data.
 
 https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities?resource=download
 
